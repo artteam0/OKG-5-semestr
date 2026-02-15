@@ -1,0 +1,21 @@
+C:\labi\5sem\окг\lab3\lab3\bin\Debug\lab3.exe.config
+C:\labi\5sem\окг\lab3\lab3\bin\Debug\lab3.exe
+C:\labi\5sem\окг\lab3\lab3\bin\Debug\lab3.pdb
+C:\labi\5sem\окг\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\labi\5sem\окг\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\labi\5sem\окг\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\labi\5sem\окг\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\labi\5sem\окг\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\labi\5sem\окг\lab3\lab3\obj\Debug\lab3.exe
+C:\labi\5sem\окг\lab3\lab3\obj\Debug\lab3.pdb
+D:\уник\5 сем\ОКГ\lab03 г\lab3\bin\Debug\lab3.exe.config
+D:\уник\5 сем\ОКГ\lab03 г\lab3\bin\Debug\lab3.exe
+D:\уник\5 сем\ОКГ\lab03 г\lab3\bin\Debug\lab3.pdb
+D:\уник\5 сем\ОКГ\lab03 г\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\уник\5 сем\ОКГ\lab03 г\lab3\obj\Debug\lab3.exe.config
+D:\уник\5 сем\ОКГ\lab03 г\lab3\obj\Debug\lab3.Form1.resources
+D:\уник\5 сем\ОКГ\lab03 г\lab3\obj\Debug\lab3.Properties.Resources.resources
+D:\уник\5 сем\ОКГ\lab03 г\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+D:\уник\5 сем\ОКГ\lab03 г\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\уник\5 сем\ОКГ\lab03 г\lab3\obj\Debug\lab3.exe
+D:\уник\5 сем\ОКГ\lab03 г\lab3\obj\Debug\lab3.pdb
